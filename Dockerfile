@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:18.04
 
 LABEL com.github.actions.name="CloudFormation Deploy Action-Saymon"
 LABEL com.github.actions.description="Deploy AWS CloudFormation Stack-Saymon"
